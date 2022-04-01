@@ -1,0 +1,6 @@
+@import '@alife/theme-blue/variables.css';
+@import '@alife/theme-blue/dist/next.var.css';
+
+body {
+  -webkit-font-smoothing: antialiased;
+}
