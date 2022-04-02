@@ -12,7 +12,6 @@ export default function Games() {
               <Card.Header title={game.title} />
               <Card.Content>
                 <img src={game.image} width="400" height="225" style={{ width: '100%', height: 'auto' }} />
-                <div>{game.description}</div>
               </Card.Content>
               <Card.Actions>
                 <Button type="primary">Buy $59.99</Button>
